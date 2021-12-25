@@ -1,0 +1,66 @@
+[
+  {
+    "ticker": "ADAR",
+    "recipient": {
+      "name": "KIVA",
+      "address": "986 Mission Street, 4th Floor, San Francisco 94103, California, USA",
+      "tel": "+1 828 479 5482",
+      "contact": "contactus@mail.kiva.org"
+    },
+    "ada": 16.13,
+    "usd": 25,
+    "timestamp": 1623362045,
+    "files": [
+      "ADAR/2021_June_10_KIVA_Donation.PNG"
+    ],
+    "charity_tx_id": "58813023"
+  },
+  {
+    "ticker": "ADAR",
+    "recipient": {
+      "name": "KIVA",
+      "address": "986 Mission Street, 4th Floor, San Francisco 94103, California, USA",
+      "tel": "+1 828 479 5482",
+      "contact": "contactus@mail.kiva.org"
+    },
+    "ada": 18.65,
+    "usd": 25,
+    "timestamp": 1624183801,
+    "files": [
+      "ADAR/2021_June_20_KIVA_Donation.PNG"
+    ],
+    "charity_tx_id": "58922601"
+  },
+  {
+    "ticker": "ADAR",
+    "recipient": {
+      "name": "KIVA",
+      "address": "986 Mission Street, 4th Floor, San Francisco 94103, California, USA",
+      "tel": "+1 828 479 5482",
+      "contact": "contactus@mail.kiva.org"
+    },
+    "ada": 195.12,
+    "usd": 400,
+    "timestamp": 1636842710,
+    "files": [
+      "ADAR/2021_Nov_13_KIVA_Donation.PNG"
+    ],
+    "charity_tx_id": "60309773"
+  },
+  {
+    "ticker": "ADAR",
+    "recipient": {
+      "name": "KIVA",
+      "address": "986 Mission Street, 4th Floor, San Francisco 94103, California, USA",
+      "tel": "+1 828 479 5482",
+      "contact": "contactus@mail.kiva.org"
+    },
+    "ada": 225,
+    "usd": 270,
+    "timestamp": 1639185509,
+    "files": [
+      "ADAR/2021_Nov_13_KIVA_Donation.PNG"
+    ],
+    "charity_tx_id": "60612848"
+  }
+]
